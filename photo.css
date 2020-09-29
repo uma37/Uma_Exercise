@@ -1,0 +1,22 @@
+img {
+	width: 380px;
+	height:380px;
+	object-fit: cover;
+	margin: 1.66%;
+}
+
+
+p {
+	font-family: serif ;
+	font-size: 60px;
+	font-weight: 800;
+	text-align: center;
+	color: red;
+	text-transform: uppercase;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	padding-bottom: 20px;
+}
+
